@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="client/src/cropbox2.png" alt="HR Notes" width="190" height="180">
+    <img src="src/assets/Imgs/Mobile.png" alt="HR Notes" width="190" height="180">
   </a>
 
 <h3 align="center">Easy Notes (HR Notes)</h3>
